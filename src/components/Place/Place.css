@@ -1,0 +1,11 @@
+/* design for place name */
+.card-title{
+    color: white;
+    background-color: rgb(75, 0, 41);
+}
+/* cards hover effect */
+.card:hover{
+    background-color: rgb(75, 0, 41);
+    color: white;
+    transition: all .5s ease-in;
+}
